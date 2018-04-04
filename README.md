@@ -4,7 +4,7 @@ A gym has every day people who want to have the control the weight and height re
 
 # Installation
 
-The following program needs to be installed from Java 2 to latest one, and the versions of PosgressSQL should be from 9.5 to 10.
+The following program needs to be installed from Java 2 to latest one, and the versions of PosgressSQL should be from 9.5 to 10 since the software is a jar file.
 
 # Feedback
 
