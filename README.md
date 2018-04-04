@@ -1,10 +1,16 @@
-#Introduction
+# Introduction
 
-One of more things is important is to know if we are health or not between the limits in our health. In this exercise we're going to take in account two things important: Weight and Height. When the weight is according between the limit related with weight if the mass is muscle or fat is important what the risk is related with the posible illness that you can suffer ins
+One of more things is important is to know if we are health or not between the limits in our health. In this exercise we're going to take in account two things important: Weight and Height. When the weight is according between the limit related with weight if the mass is muscle or fat is important what the risk is related with the posible illnesses that you can suffer. You can calculate the BMI in the following content.
 
 # Balance Weight
 
 A gym has every day people who want to have the control the weight and height respect to the time they train.It asks a program that measures BMI and make the history around the training in gym. This program is going to take in account the age, height, weight, name, middle name (optional), surname and gender of the person. The program is going to code in Java SE and the Database Management Systems(DBMS) in PosgressSQL.
+
+BMI is a element to calculate if you are minimally well-constituted in your body, that is, it doesn't matter importance if the mass is fat or muscle, the important is not to pass of the limits according of your height because of if you pass it's possible pronosticate possible complications.
+
+The formula to calculate the BMI is:
+
+
 
 # Installation
 
