@@ -1,3 +1,7 @@
+#Introduction
+
+One of more things is important is to know if we are health or not between the limits in our health. In this exercise we're going to take in account two things important: Weight and Height. When the weight is according between the limit related with weight if the mass is muscle or fat is important what the risk is related with the posible illness that you can suffer ins
+
 # Balance Weight
 
 A gym has every day people who want to have the control the weight and height respect to the time they train.It asks a program that measures BMI and make the history around the training in gym. This program is going to take in account the age, height, weight, name, middle name (optional), surname and gender of the person. The program is going to code in Java SE and the Database Management Systems(DBMS) in PosgressSQL.
